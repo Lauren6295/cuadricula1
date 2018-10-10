@@ -1,0 +1,47 @@
+#container {
+    position: relative;
+    margin: 0 auto;
+    width: 1200px;
+    height: 600px;
+    background: black;
+}
+
+.caja {
+    width: 585px;
+    height: 285px;
+    background: rgb(50, 57, 163);
+    color: #fff;
+    font-size: 20px;
+    text-align: center;
+}
+.uno {
+    position: absolute;
+    top: 10px;
+    bottom: ;
+    right: ;
+    left: 10px;
+}
+
+.dos {
+    position: absolute;
+    top: 10px;
+    bottom: ;
+    right: ;
+    left: 605px;
+}
+
+.tres {
+    position: absolute;
+    top: 305px;
+    bottom: ;
+    right: ;
+    left: 10px;
+}
+
+.cuatro {
+    position: absolute;
+    top: 305px;
+    bottom: ;
+    right: ;
+    left: 605px;
+}
